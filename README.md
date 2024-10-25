@@ -1,6 +1,6 @@
 # EMR-Services-Lights---Sirens
 
-Welcome, Today I am here to 🎪show case my new micro-controller project “Emergency Services - Lights & Sirens” 🚨🚨🚨with the Raspberry PICO 🍇. 
+Welcome, Today I am here to show case my new micro-controller project “Emergency Services - Lights & Sirens” 🚨🚨🚨with the Raspberry PICO 🍇. 
 
 Buzzer(Requires Sound ON)🔊 
 
