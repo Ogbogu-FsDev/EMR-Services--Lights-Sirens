@@ -32,7 +32,7 @@ With the PICO being powered by a battery pack which generates power to the PICO.
 <p>
 <b>Port connection:</b> 
 
-Raspberry PICO W | LED1-RED | LED2-BLUE | LED3-GREEN | LED4-BLUE | LED5-RED | LED6-RED | BUTTON 1 | BUTTON 2 | BUTTON 3 | BUTTON 4 | BUZZER |
+PICO W | LED1-RED | LED2-BLUE | LED3-GREEN | LED4-BLUE | LED5-RED | LED6-RED | BUTTON 1 | BUTTON 2 | BUTTON 3 | BUTTON 4 | BUZZER |
 --- | --- | --- | --- |--- | --- | --- | --- | --- | --- | --- | --- |
 GP0 | L1 |   |   |   |   |   |   |   |   |   |   |
 GP1 |   | L2 |   |   |   |   |   |   |   |   |   |  
