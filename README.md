@@ -25,6 +25,7 @@ With the PICO being powered by a battery pack which generates power to the PICO.
   <li>2x GREEN LED</li>
   <li>2x BLUE LED</li>
   <li>1x Buzzer</li>
+  <li>4x Buttons</li>
   <li>10x Dupont Line</li>
   <li>10x Male-Male short line</li>
 </ul>
